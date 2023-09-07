@@ -531,7 +531,7 @@ img {
 }
 
 .skills__js {
-  width: 75%;
+  width: 70%;
 }
 
 .skills__react {
@@ -539,7 +539,7 @@ img {
 }
 
 .skills__javas {
-  width: 80%;
+  width: 70%;
 }
 
 .skills__node {
@@ -551,23 +551,23 @@ img {
 }
 
 .skills__pythons {
-  width: 95%;
+  width: 75%;
 }
 
 .skills__frameworks {
-  width: 90%;
+  width: 60%;
 }
 
 .skills__cv {
-  width: 92%;
+  width: 95%;
 }
 
 .skills__nlp {
-  width: 85%;
+  width: 90%;
 }
 
 .skills__ap {
-  width: 90%;
+  width: 80%;
 }
 
 .skills__ps {
@@ -583,11 +583,11 @@ img {
 }
 
 .skills__cpp {
-  width: 90%;
+  width: 80%;
 }
 
 .skills__java {
-  width: 90%;
+  width: 70%;
 }
 
 .skills__sql {
@@ -599,6 +599,10 @@ img {
 }
 
 .skills__aws {
+  width: 85%;
+}
+
+.skills__opencv {
   width: 75%;
 }
 
@@ -607,7 +611,7 @@ img {
 }
 
 .skills__pt {
-  width: 72%;
+  width: 95%;
 }
 
 .skills__git {
